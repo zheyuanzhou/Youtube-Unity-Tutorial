@@ -1,0 +1,65 @@
+ In this video we are going to have a look at how to slice Sprites inside unity.
+Sprites are 2D graphic objects used for characters, projectiles and other elements of 2D gameplay.
+At the end you would have four methods of slicing sprites in unity. So lets begin.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------1.SIngle
+Now We have created one 2D project in Unity.
+Let’s Create One folder called “Sprites”. In this tutorial I will drag each sprite into this folder. Just make this project looks nice.
+
+
+I have made some images by using Photoshop. Save it as PNG format. Back to unity and drag the image to your sprite folder. After importing that successfully, you can put them inside my Scene view.
+In here you have to make sure two things. First, click the sprite in project view and check the texture type in inspector view.
+You can only see the Sprite Editor button if the Texture Type on the image you have selected is set to Sprite (2D and UI).
+The second thing I have to check is the sprite Mode. In this part it should be Single Mode. Later, we will have more complex sprites.
+
+
+BTW, You can simply download all sprites assets from the description below.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------2.Auto
+However, Most images contain more than one element. One of lazy method is copy the layer of this element and paste to a new one. Then export single image to the unity again such like this. While this method looks wired and waste your time. 
+
+
+In unity, We have three different methods to slice complex sprite. First let's save this image as PNG format and drag the images to the sprite folder in unity. Then Open the Sprite Editor.
+
+
+The Sprite Editor lets you extract sprite graphics from a larger image and edit a number of component images within a single texture in your image editor. You could use this, for example, to keep the arms, legs and body of a character as separate elements within one image.
+
+
+
+
+Inside the Sprite Editor, There are Three Methods of slicing the sprites. In here We are using Automatic slicing. Press the slice button. Unity can save you work by detecting the graphic elements and extracting them for you automatically.  Note that after any of the automatic slicing methods has been used, the generated rectangles can still be edited manually. You can let Unity handle the rough definition of the sprite boundaries and pivots and then do any necessary fine tuning yourself. One possible reason perhaps I did not ease all unnecessary color in photoshop layer and export directly. Fortunately, We can check again inside the sprite editor.
+
+
+BTW there is one RGB button on the Upper[ˈəpər] left corner. Press the button will change the background color which can makes us easy to check in the sprite editor. The slider can zoom in and zoom out in this editor as well. Press the apply button and close the sprite editor. Now One image have been sliced into several parts.
+So This is Automatic Slicing. We can use this method to solve many complex sprites. 
+For example this is one character I made by adobe illustrator. We can also use the Automatic Slicing method to keep the arms, legs and body of a character as separate elements within one image. Drag the character sprite into unity .Then check The texture type and the multiple mode. Open the sprite editor and automatically slice the sprites. You can click each part and Rename them which make you easy to read. After Pressing Applying button, We can easy combine this character. That will be convenient for animation and the coding later. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------3.Size
+So Why We still need another two methods? Let's drag another sprite into Unity. This sprite is download on website when I used RPG maker. Each element is already laid out in a regular pattern during creation. When We use Auto method to slice the images , we can see that certain elements connect with each other and cannot be separated automactially. The possible reason for that might be the automatic slicing method cannot detect the gradient color very precisely in many tiny places.
+
+
+SO Let's Move to another two methods. Grid by Cell Size or Grid by Cell Count options are also available for the slicing type. These two methods are very useful when the sprites already have been laid out in a regular pattern during creation
+
+
+In this sprite Let' use Grid by cell size. The Pixel Size values determine the width and height of the tiles in pixels.
+Here we have calculated the pixel size  is 192. Press Slice button. In the Bottom right corner we can see each element has 192 pixel width and 192 pixel height. Press the apply button and close the sprite editor.
+
+
+In the Folder, Drag all elements to the scene view to make one simple animation. Resize the sprite to make the animation clear. Now our animation work perfect.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------4.Count
+Then I will introduce one of my favorite method. “Grid by cell Count”. We continue to use this sprite. First Delete the previous sprite and animation assets. Import the sprite to this folder again. Open the sprite editor. First, choose the “Grid by cell Count” and count the number of the rows and the columns. Column & Row determines the number of columns and rows used for slicing. Then input the information to the slice window. Press the apply button and close this sprite editor. We can see each part has been sliced very nice. 
+We can open the browser and search the keywords "unity sprites". There are many unity amazing sprites which have been laid out in this regular pattern. Using this method can easy to slice sprite in your 2D game. 
+
+
+Using Grid by Cell count can also slice more complex images in unity. There is one sprite I made in Adobe illustrator. All elements has been laid out separately by myself.
+ First We are going to use automatic slicing. While there is one part not satisfied with what we want. Here we want only one complete stone while the sprite editor has been slice into two parts. For me I would like to choose "Grid by cell count" to solve this problem. Count the number of element in this sprite. There Are 20 parts in here. Then input 4 columns and 5 rows which will create 20 rectangles in this editor. Then you can choose each rectangles and change the size and position to make them matching each element. After that you can drag each element to the scene view and crate your own house. For me, "Grid by Cell Count" can solve many problems in my daily life.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------5.Manually
+There are three different methods help you to slice sprites in unity. However, for many users,
+The most direct way to use the editor is to identify the elements manually. If you click on the image, you will see a rectangular selection area appear with handles in the corners. You can drag the handles or the edges of the rectangle to resize it around a specific element. Having isolated an element, you can add another by dragging a new rectangle in a separate part of the image. You’ll notice that when you have a rectangle selected, a panel appears in the bottom right of the window
+
+
+Slicing manually is close to the "Grid by cell count" method because both of methods we have to create the rectangles to isolate the element what we want. The advantage of Slicing manually is that we don’t need to count the number of the elements and spend time placing the rectangles to the correct place several times.
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+This is the basic tutorial of how to slice sprites in unity Sprite Editor. 
+I highly recommend that you can understand all of them because Each method will be convenient in certain condition. 
