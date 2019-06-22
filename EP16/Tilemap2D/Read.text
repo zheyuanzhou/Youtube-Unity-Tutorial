@@ -1,1 +1,43 @@
 Jun 21
+Hello everyone Welcome to my channel.
+In this video, You will learn how to make one map by using TILEMAP2D in unity.
+
+〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+
+※Keyword※
+
+Sorting layer, Tile Palette, Tiles, Grid, Sprite Editor
+
+〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+
+Text Version of this tutorial: https://www.evernote.com/l/AhWQioPhRV...
+
+The completed project can be downloaded from my google drive: https://drive.google.com/drive/folder...
+
+Resources can be download from my Github: https://github.com/zheyuanzhou
+
+Sprites also come from here: https://pixel-poem.itch.io/dungeon-as...
+
+Order of Execution for Event Functions: https://docs.unity3d.com/Manual/Execu...
+
+〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+
+★ Timeline Of this tutorial ★  
+0:27 Tutorial Start
+2:06 Sorting layer
+2:52 Sprite settings
+4:35 Tile Palette
+5:35 Start creating “Ground” Tilemap
+6:59 Create “Wall” Tilemap
+10:28 Fix one error
+11:20 Add some shadows on the ground
+12:56 Add the collider to tilemap
+14:04 Coding Challenge and solution
+16:39 Sum and the next tutorial
+
+〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+
+★★★ Hopes SMASH likes and subs button. Next video, I will publish another two scenes creation process and start to our player moment and CameraController. We will talk about the Mathf.Clamp method and the Vector3.Lerp.
+Have a nice Day/Night!
+
+〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
