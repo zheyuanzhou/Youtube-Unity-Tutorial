@@ -44,9 +44,10 @@
 
 > Ep22 **FADE IN** and **FADE OUT**: https://www.youtube.com/watch?v=BM2Hav6iPQ0
 
-> Ep23 How to **LEVEL UP** Player Status in Unity [1/3]: https://www.youtube.com/watch?v=IHFCkxEdumI
+> Ep23 How to **LEVEL UP** Player Status in Unity - Inspector[1/3]: https://www.youtube.com/watch?v=IHFCkxEdumI
 
-> Ep24 How to **LEVEL UP** Player Status in Unity [2/3]: https://www.youtube.com/watch?v=LlTi2E_SZVc
+> Ep24 How to **LEVEL UP** Player Status in Unity - UI[2/3]: https://www.youtube.com/watch?v=LlTi2E_SZVc
 
-> Ep25 How to **LEVEL UP** PLayer Status in Unity [3/3]: https://www.youtube.com/watch?v=RXB5dLCi4r8
+> Ep25 How to **LEVEL UP** PLayer Status in Unity - Effects[3/3]: https://www.youtube.com/watch?v=RXB5dLCi4r8
 
+> Ep26 How to **LEVEL UP** Player Status in Unity - Switch Players' Info [Extra/3]: https://www.youtube.com/watch?v=3KhCX4vFluM&t=18s
