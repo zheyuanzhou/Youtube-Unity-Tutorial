@@ -51,3 +51,7 @@
 > Ep25 How to **LEVEL UP** PLayer Status in Unity - Effects[3/3]: https://www.youtube.com/watch?v=RXB5dLCi4r8
 
 > Ep26 How to **LEVEL UP** Player Status in Unity - Switch Players' Info [Extra/3]: https://www.youtube.com/watch?v=3KhCX4vFluM&t=18s
+
+> Ep27 To do List - July: https://www.youtube.com/watch?v=VC-n5PnCpWs&t=1s
+
+
