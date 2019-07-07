@@ -1,0 +1,1406 @@
+fileFormatVersion: 2
+guid: c36d892c632124074be77729d3f7787d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3841001674730881611
+    second: Candies_0
+  - first:
+      213: -6225919897683978183
+    second: Candies_1
+  - first:
+      213: -4687705250885310434
+    second: Candies_2
+  - first:
+      213: -5040079780696577946
+    second: Candies_3
+  - first:
+      213: 648748083495534012
+    second: Candies_4
+  - first:
+      213: 7427526204996982723
+    second: Candies_5
+  - first:
+      213: -8520652032662254867
+    second: Candies_6
+  - first:
+      213: 7742376577968055563
+    second: Candies_7
+  - first:
+      213: -4841812876376977551
+    second: Candies_8
+  - first:
+      213: 5562964594640676780
+    second: Candies_9
+  - first:
+      213: -6097265694004274444
+    second: Candies_10
+  - first:
+      213: 6043242045119856887
+    second: Candies_11
+  - first:
+      213: -5019601292961156203
+    second: Candies_12
+  - first:
+      213: 5755099141432641874
+    second: Candies_13
+  - first:
+      213: -7445993539180134019
+    second: Candies_14
+  - first:
+      213: 9127637560183237482
+    second: Candies_15
+  - first:
+      213: 5544454844689592226
+    second: Candies_16
+  - first:
+      213: 5738474315247707708
+    second: Candies_17
+  - first:
+      213: -7650586125170174136
+    second: Candies_18
+  - first:
+      213: 1801093469259011967
+    second: Candies_19
+  - first:
+      213: 6039399522708913644
+    second: Candies_20
+  - first:
+      213: -4373821996892306377
+    second: Candies_21
+  - first:
+      213: -6733027817676734643
+    second: Candies_22
+  - first:
+      213: 3642044235522113963
+    second: Candies_23
+  - first:
+      213: -8508766045931592373
+    second: Candies_24
+  - first:
+      213: 4639050818117391771
+    second: Candies_25
+  - first:
+      213: -4080973951928736048
+    second: Candies_26
+  - first:
+      213: 2630525507991361392
+    second: Candies_27
+  - first:
+      213: 7034718048903463181
+    second: Candies_28
+  - first:
+      213: -6401996649341707964
+    second: Candies_29
+  - first:
+      213: -7453112554707839340
+    second: Candies_30
+  - first:
+      213: -7530874686995505856
+    second: Candies_31
+  - first:
+      213: 7539572806530465004
+    second: Candies_32
+  - first:
+      213: 7074130219205231410
+    second: Candies_33
+  - first:
+      213: -1149553481084664844
+    second: Candies_34
+  - first:
+      213: -1561286671773943084
+    second: Candies_35
+  - first:
+      213: 8131199082864680482
+    second: Candies_36
+  - first:
+      213: -6769925214529988206
+    second: Candies_37
+  - first:
+      213: 6664428008985240554
+    second: Candies_38
+  - first:
+      213: -8593722934322118850
+    second: Candies_39
+  - first:
+      213: -4811864622303438323
+    second: Candies_40
+  - first:
+      213: 835247876164326668
+    second: Candies_41
+  - first:
+      213: 2656684665939500765
+    second: Candies_42
+  - first:
+      213: 1621309805763299576
+    second: Candies_43
+  - first:
+      213: -8700869255254166999
+    second: Candies_44
+  - first:
+      213: 8793769099778962048
+    second: Candies_45
+  - first:
+      213: 7978765850854947525
+    second: Candies_46
+  - first:
+      213: -428586920296440841
+    second: Candies_47
+  - first:
+      213: -2600394225219909073
+    second: Candies_48
+  - first:
+      213: -2634026344816855510
+    second: Candies_49
+  - first:
+      213: 8960687957847754314
+    second: Candies_50
+  - first:
+      213: 8452130229477977436
+    second: Candies_51
+  - first:
+      213: -8912683375149018643
+    second: Candies_52
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Candies_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 4416
+        width: 271
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b2482e175534596b63efb81cb5f24e
+      internalID: -3841001674730881611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 4704
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4fa5f7a0f61461db6a68b7415f11b6
+      internalID: -6225919897683978183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_2
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4399
+        width: 300
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bd283cadc884fe78b269f157b9df68
+      internalID: -4687705250885310434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_3
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 4344
+        width: 286
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89bd148fa13d48a18a8a788bae3effa
+      internalID: -5040079780696577946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_4
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 4382
+        width: 269
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74740cff34e8449ba18df4c602e744b
+      internalID: 648748083495534012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4687
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b86eba3b6a448fea049ca786e55b67
+      internalID: 7427526204996982723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 4692
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59866b9eca31546d890fd3a01c2e2968
+      internalID: -8520652032662254867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 4677
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39453f24d8daf4ff69839ed9e8204ba7
+      internalID: 7742376577968055563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4575
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cd441816a144982bf6b7d7d1efc124
+      internalID: -4841812876376977551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4551
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fda6f445bdfc41f8b1e6faafe6a44ca
+      internalID: 5562964594640676780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3892
+        width: 226
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d090cda41d1f4903bfa128237032d07
+      internalID: -6097265694004274444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 3847
+        width: 362
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f4877b147564d99b8953f6d1cc2314
+      internalID: 6043242045119856887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_12
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 3847
+        width: 281
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59097c6286d644979ae4506e14769963
+      internalID: -5019601292961156203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_13
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 3835
+        width: 395
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b90cf480fcaa4df0bb443db66a34a28
+      internalID: 5755099141432641874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3321
+        width: 307
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed28acbd5c198481c88faf97376a1f27
+      internalID: -7445993539180134019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_15
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 3318
+        width: 321
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6da5cd27c83b40c7b9b842a2387ef27
+      internalID: 9127637560183237482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_16
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 3321
+        width: 183
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a64a257875b14f3e82da603d7546e77
+      internalID: 5544454844689592226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 3540
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40d3c7e171d44b4a8beaf50c8b890e8
+      internalID: 5738474315247707708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_18
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 3337
+        width: 391
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6257ca71e46be4a69be96d2c3167fb05
+      internalID: -7650586125170174136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2761
+        width: 288
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417ea2d48745749d19af2e43304c4bcd
+      internalID: 1801093469259011967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_20
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2759
+        width: 281
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b3abd1ddc80453c897e616c249df84
+      internalID: 6039399522708913644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_21
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2804
+        width: 407
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ce0b89286f84af5940dd18f169c54e
+      internalID: -4373821996892306377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_22
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 2840
+        width: 393
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ad4db59b79f44049da0a3cd3b1d40b
+      internalID: -6733027817676734643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2249
+        width: 391
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4ad1b3896a74da5abcb42e196964b9
+      internalID: 3642044235522113963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_24
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2626
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18952d22d32a54397ac8a2d5a1c18a87
+      internalID: -8508766045931592373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_25
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2259
+        width: 200
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e5208ec7cab47678d8cfb4369cd2b1
+      internalID: 4639050818117391771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_26
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2299
+        width: 190
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d42f8ef5e7746fb8d1786915b52b55
+      internalID: -4080973951928736048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_27
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2233
+        width: 272
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebc3b60fff134d19a273b0a1ef1385d
+      internalID: 2630525507991361392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_28
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2566
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e912ac091cc1045af9b148d2ba2fadc0
+      internalID: 7034718048903463181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_29
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2423
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79d776d1ebee4e219660fa9887cbead
+      internalID: -6401996649341707964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_30
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1740
+        width: 269
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b550b105376e4428ca174308674e526a
+      internalID: -7453112554707839340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_31
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1707
+        width: 252
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae78dbca2103419a90b20fd78f298a5
+      internalID: -7530874686995505856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_32
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1988
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626c3319e4b9946849b8aec5e3a0f3fd
+      internalID: 7539572806530465004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_33
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1761
+        width: 260
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878ef4b7b8ce242498b4c68cd458b812
+      internalID: 7074130219205231410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_34
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 1797
+        width: 226
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5fae589a1a247f884ddd90b722de3d
+      internalID: -1149553481084664844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_35
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1911
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c7cdfa2e79e4f80998b704e2309e6c
+      internalID: -1561286671773943084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_36
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1816
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855cef29ab66d458b9bdcf092f462ce1
+      internalID: 8131199082864680482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1164
+        width: 383
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0f069dfee0f4fadb41e2bd61286697
+      internalID: -6769925214529988206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_38
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1288
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b8f8fb47ac455c886912b6f82c1bb
+      internalID: 6664428008985240554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_39
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1216
+        width: 412
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d50c4db310e43279524b7eb375b436
+      internalID: -8593722934322118850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_40
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1193
+        width: 410
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fdf1e34c8cf42578a54b76e3680cc1
+      internalID: -4811864622303438323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_41
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 1207
+        width: 250
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7946efdd06bfd41c583f6d71fd0147ff
+      internalID: 835247876164326668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_42
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1269
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb81dc4da4ef04a62885eed6e1910958
+      internalID: 2656684665939500765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_43
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1181
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b06bcaaeadb4294ae17dcec853a581
+      internalID: 1621309805763299576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_44
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1185
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db1d39e1ad4a4f939accb723b2ee518
+      internalID: -8700869255254166999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_45
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 655
+        width: 343
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce04eb68f648e4cb99c6a0dd4be4dccc
+      internalID: 8793769099778962048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_46
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 636
+        width: 285
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fdef569b97c42c8a09fcc148a99cf7
+      internalID: 7978765850854947525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_47
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 647
+        width: 369
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b066716bc5644e4da5a295b6f018bed
+      internalID: -428586920296440841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_48
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 664
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6fe8439ed7247058d0b15336a54981
+      internalID: -2600394225219909073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_49
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 678
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18850ca993a544508f75dc792d63854
+      internalID: -2634026344816855510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_50
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 636
+        width: 299
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76e787367e03458cb7335bf752bbdfe
+      internalID: 8960687957847754314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_51
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 543
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a75a12267e14d93bb7047a7f2e7b29
+      internalID: 8452130229477977436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_52
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 129
+        width: 345
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a781cf660f064c32853f65d64254975
+      internalID: -8912683375149018643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 911b4762c2e6e4d31b21347e2e62038b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
