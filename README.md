@@ -55,3 +55,5 @@
 > Ep27 To do List - July: https://www.youtube.com/watch?v=VC-n5PnCpWs&t=1s
 
 > Ep28 Display cards with same **spacing**: https://www.youtube.com/watch?v=-MSxWZ4b95I
+
+
