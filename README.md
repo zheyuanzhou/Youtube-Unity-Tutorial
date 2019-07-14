@@ -56,4 +56,10 @@
 
 > Ep28 Display cards with same **spacing**: https://www.youtube.com/watch?v=-MSxWZ4b95I
 
+> Ep29 Display cards on **initial stage**: https://www.youtube.com/watch?v=zYeFokaqP4g
 
+> Ep30 Unity **Hotkeys** - keyboard shortcutsin Unity: https://www.youtube.com/watch?v=Qb9koGfSXHQ&t=4s
+
+> Ep31 My Unity workflow on **SKILL TREES**: https://www.youtube.com/watch?v=kyBs0XjJhqw&t=2s
+
+> Ep32 Overview of my Unity **SKILL TREES**: https://www.youtube.com/watch?v=RrX-UiD1Saw&t=348s
