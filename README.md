@@ -63,3 +63,5 @@
 > Ep31 My Unity workflow on **SKILL TREES**: https://www.youtube.com/watch?v=kyBs0XjJhqw&t=2s
 
 > Ep32 Overview of my Unity **SKILL TREES**: https://www.youtube.com/watch?v=RrX-UiD1Saw&t=348s
+
+> Ep33 Skill Trees **series**: https://www.youtube.com/watch?v=CWyJF9k4wyE&t=10s
