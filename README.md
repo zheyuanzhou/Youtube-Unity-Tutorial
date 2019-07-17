@@ -36,7 +36,7 @@
 
 > Ep18 Unity **CAMERA Control** and **PLayer Movement**: https://www.youtube.com/watch?v=TI6TBlMChMg&t=72s
 
-> Ep19 **Singleton Pattern** in Unity3D: https://www.youtube.com/watch?v=Tgfohf146QI&t=1s
+> Ep19 **Singleton Pattern** in Unity3D: https://www.youtube.com/watch?v=Tgfohf146QI&t=1s 
 
 > Ep20 Making **Scene transitions** in Unity: https://www.youtube.com/watch?v=ACkVh3quMzU
 
