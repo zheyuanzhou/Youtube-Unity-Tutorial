@@ -41,7 +41,7 @@ SO Let's Move to another two methods. Grid by Cell Size or Grid by Cell Count op
 In this sprite Let' use Grid by cell size. The Pixel Size values determine the width and height of the tiles in pixels.
 Here we have calculated the pixel size  is 192. Press Slice button. In the Bottom right corner we can see each element has 192 pixel width and 192 pixel height. Press the apply button and close the sprite editor.
 
-
+ 
 In the Folder, Drag all elements to the scene view to make one simple animation. Resize the sprite to make the animation clear. Now our animation work perfect.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------4.Count
 Then I will introduce one of my favorite method. “Grid by cell Count”. We continue to use this sprite. First Delete the previous sprite and animation assets. Import the sprite to this folder again. Open the sprite editor. First, choose the “Grid by cell Count” and count the number of the rows and the columns. Column & Row determines the number of columns and rows used for slicing. Then input the information to the slice window. Press the apply button and close this sprite editor. We can see each part has been sliced very nice. 
