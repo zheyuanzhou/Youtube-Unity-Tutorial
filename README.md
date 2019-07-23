@@ -65,3 +65,7 @@
 > Ep32 Overview of my Unity **SKILL TREES**: https://www.youtube.com/watch?v=RrX-UiD1Saw&t=348s
 
 > Ep33 Skill Trees **series**: https://www.youtube.com/watch?v=CWyJF9k4wyE&t=10s
+
+> Ep34 **Isometric TIlemap**: https://www.youtube.com/watch?v=ruDXAXcgqmE&t=13s
+
+> Ep35 Isometric Tilemap **FrozenMountain(Speed)**: https://www.youtube.com/watch?v=bW1FJTiLm6I&t=2s
