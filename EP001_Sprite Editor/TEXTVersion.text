@@ -5,7 +5,7 @@ At the end you would have four methods of slicing sprites in unity. So lets begi
 Now We have created one 2D project in Unity.
 Let’s Create One folder called “Sprites”. In this tutorial I will drag each sprite into this folder. Just make this project looks nice.
    
- 
+  
 I have made some images by using Photoshop. Save it as PNG format. Back to unity and drag the image to your sprite folder. After importing that successfully, you can put them inside my Scene view.
 In here you have to make sure two things. First, click the sprite in project view and check the texture type in inspector view.
 You can only see the Sprite Editor button if the Texture Type on the image you have selected is set to Sprite (2D and UI).
