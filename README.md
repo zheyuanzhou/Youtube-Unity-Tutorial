@@ -69,3 +69,15 @@
 > Ep34 **Isometric TIlemap**: https://www.youtube.com/watch?v=ruDXAXcgqmE&t=13s
 
 > Ep35 Isometric Tilemap **FrozenMountain(Speed)**: https://www.youtube.com/watch?v=bW1FJTiLm6I&t=2s
+
+> Ep36 Isometric **Rule Tiles** in Unity: https://www.youtube.com/watch?v=RXb6PGRiU58&t=5s
+
+> Ep37 **(Mute Whole Process)** Isometric Rule Tiles in Unity: https://www.youtube.com/watch?v=VDxrtcQYOSQ&t=2s
+
+> Ep38 **(Speed)** Isometric Rule Tile - FrozenCave: https://www.youtube.com/watch?v=7vyg1VYjyfc&t=1s
+
+
+
+
+
+
