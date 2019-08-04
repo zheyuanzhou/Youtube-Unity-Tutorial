@@ -27,7 +27,7 @@ The Sprite Editor lets you extract sprite graphics from a larger image and edit 
 
 Inside the Sprite Editor, There are Three Methods of slicing the sprites. In here We are using Automatic slicing. Press the slice button. Unity can save you work by detecting the graphic elements and extracting them for you automatically.  Note that after any of the automatic slicing methods has been used, the generated rectangles can still be edited manually. You can let Unity handle the rough definition of the sprite boundaries and pivots and then do any necessary fine tuning yourself. One possible reason perhaps I did not ease all unnecessary color in photoshop layer and export directly. Fortunately, We can check again inside the sprite editor.
 
-
+   
 BTW there is one RGB button on the Upper[ˈəpər] left corner. Press the button will change the background color which can makes us easy to check in the sprite editor. The slider can zoom in and zoom out in this editor as well. Press the apply button and close the sprite editor. Now One image have been sliced into several parts.
 So This is Automatic Slicing. We can use this method to solve many complex sprites. 
 For example this is one character I made by adobe illustrator. We can also use the Automatic Slicing method to keep the arms, legs and body of a character as separate elements within one image. Drag the character sprite into unity .Then check The texture type and the multiple mode. Open the sprite editor and automatically slice the sprites. You can click each part and Rename them which make you easy to read. After Pressing Applying button, We can easy combine this character. That will be convenient for animation and the coding later. 
