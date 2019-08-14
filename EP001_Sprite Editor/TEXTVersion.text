@@ -2,7 +2,7 @@
 Sprites are 2D graphic objects used for characters, projectiles and other elements of 2D gameplay.
 At the end you would have four methods of slicing sprites in unity. So lets begin.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------1.SIngle
-Now We have created one 2D project in Unity.
+Now We have created one 2D project in Unity. 
 Let’s Create One folder called “Sprites”. In this tutorial I will drag each sprite into this folder. Just make this project looks nice.
          
     
