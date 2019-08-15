@@ -78,6 +78,11 @@
 
 > Ep39 Level Selection (**UNLOCK Levels & SAVING Data**): https://www.youtube.com/watch?v=MZ-ed8uEsZI&t=815s
 
+> Ep40 **(Mute Whole Process)** Level Selection: https://www.youtube.com/watch?v=uVVyBp0yLqQ
+
+> Ep41 How to create **Map & Level Selection** in Unity [1/2]: https://www.youtube.com/watch?v=JpGu5ydJbcM&t=3s
+
+> Ep42 How to create **Map & Level Selection** in Unity [2/2]: https://www.youtube.com/watch?v=prRvdkMIzY8&t=1s
 
 
 
