@@ -37,13 +37,13 @@
 > Ep18 Unity **CAMERA Control** and **PLayer Movement**: https://www.youtube.com/watch?v=TI6TBlMChMg&t=72s
 
 > Ep19 **Singleton Pattern** in Unity3D: https://www.youtube.com/watch?v=Tgfohf146QI&t=1s 
-
+ 
 > Ep20 Making **Scene transitions** in Unity: https://www.youtube.com/watch?v=ACkVh3quMzU
 
 > Ep21 **My Youtube Channel**: https://www.youtube.com/watch?v=yxtCxqTYYa0
 
 > Ep22 **FADE IN** and **FADE OUT**: https://www.youtube.com/watch?v=BM2Hav6iPQ0
-
+  
 > Ep23 How to **LEVEL UP** Player Status in Unity - Inspector[1/3]: https://www.youtube.com/watch?v=IHFCkxEdumI
 
 > Ep24 How to **LEVEL UP** Player Status in Unity - UI[2/3]: https://www.youtube.com/watch?v=LlTi2E_SZVc
