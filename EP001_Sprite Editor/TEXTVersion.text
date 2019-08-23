@@ -10,7 +10,7 @@ I have made some images by using Photoshop. Save it as PNG format. Back to unity
 In here you have to make sure two things. First, click the sprite in project view and check the texture type in inspector view.
 You can only see the Sprite Editor button if the Texture Type on the image you have selected is set to Sprite (2D and UI).
 The second thing I have to check is the sprite Mode. In this part it should be Single Mode. Later, we will have more complex sprites.
-
+ 
 
 BTW, You can simply download all sprites assets from the description below.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------2.Auto
