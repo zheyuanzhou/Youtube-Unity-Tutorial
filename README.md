@@ -84,5 +84,10 @@
 
 > Ep42 How to create **Map & Level Selection** in Unity [2/2]: https://www.youtube.com/watch?v=prRvdkMIzY8&t=1s
 
+> Ep43 Introduction to Isometric Movement & Animation (8 directions) in Unity: https://www.youtube.com/watch?v=UM9BSyGyGf0
 
+> Ep44 How to use INHERITANCE (C#) to create more characters' behaviors in Unity: https://www.youtube.com/watch?v=Vt_vyRpVeK0
 
+> Ep45 How to make OBVIOUS Health Bars in Unity (Includes Simple Enemy AI - PATROL & SHOOTING): https://www.youtube.com/watch?v=a_sywixMKrQ
+
+> Ep46 RECREATE in 2D: God of war's THROW AXE and PULL IT BACK: https://www.youtube.com/watch?v=hgwK5QmzspI&t=31s
