@@ -91,3 +91,15 @@
 > Ep45 How to make **OBVIOUS Health Bars** in Unity (Includes Simple Enemy AI - PATROL & SHOOTING): https://www.youtube.com/watch?v=a_sywixMKrQ
 
 > Ep46 RECREATE in 2D: God of war's **THROW AXE** and PULL IT BACK: https://www.youtube.com/watch?v=hgwK5QmzspI&t=31s
+
+> EP47 How to SAVE and LOAD Data in Unity (The PROS and CONS of **PlayerPrefs**): https://www.youtube.com/watch?v=8Q9prb7PH9g&t=3s
+
+> EP48 SAVE and LOAD DATA with **Serialization - BINARY FORMATTER** in Unity: https://www.youtube.com/watch?v=-bWpH8iXIt8&t=7s
+
+> EP49 How to Save your Unity DATA with **JSON** (JSONUtility Class) and What's the CONS of JSON: https://www.youtube.com/watch?v=XnFklHTzIbk&t=2s
+
+
+
+
+
+
