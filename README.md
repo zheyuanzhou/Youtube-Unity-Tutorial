@@ -100,6 +100,16 @@
 
 >EP50 How to SAVE and LOAD **XML** Files DATA in Unity: https://www.youtube.com/watch?v=q878MDiaSVg&t=1s
 
+>EP51 **4 Ways** to SAVE/LOAD data in Unity And their CONS and PROS (PlayerPrefs, BinaryFormatter, JSON, XML): https://www.youtube.com/watch?v=xyWbNjAbqsE
 
+>EP52 JOIN OUR SERVER on **DISCORD**: https://www.youtube.com/watch?v=rtU5z1fRZ1Q
+
+>EP53 How to render Particle System **OVER UI Canvas** (INCLUDES One-Click Game with WINNING EFFECT): https://www.youtube.com/watch?v=Y5WVxdhEiIg&t=2s
+
+>EP54 Getting started with **Shader Graph** for BEGINNERS in Unity (Water Shader + holographic projection): https://www.youtube.com/watch?v=h4-siovcRGY&t=2s
+
+>EP55 **FRESNEL SHADER** using Unity Shader Graph (Cat Statue + Mummy): https://www.youtube.com/watch?v=sw8j0xCr9kQ&t=1s
+
+>EP56 **Noise Ellipse Effect** using Shader Graph in Unity 2019 (For beginners): https://www.youtube.com/watch?v=TRqu3pPHPUc&t=1s
 
 
