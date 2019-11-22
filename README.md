@@ -112,19 +112,19 @@
 
 >EP56 **Noise Ellipse Effect** using Shader Graph in Unity 2019 (For beginners): https://www.youtube.com/watch?v=TRqu3pPHPUc&t=1s
 
->EP57 STATIC NOISE TV EFFECT using Unity Shader Graph: https://youtu.be/cO44o5pIr30
+>EP57 **STATIC NOISE TV EFFECT** using Unity Shader Graph: https://youtu.be/cO44o5pIr30
 
->EP58 EDIT and DISPLAY CARDS - Making a COLLECTION MANAGER in Unity (E01): https://youtu.be/mhwGQ9XRBD8
+>EP58 EDIT and DISPLAY CARDS - Making a COLLECTION MANAGER in Unity **(E01)**: https://youtu.be/mhwGQ9XRBD8
 
->EP59 TURN THE PAGE - Making a COLLECTION MANAGER in Unity (E02): https://youtu.be/MBQU-AljcTU
+>EP59 TURN THE PAGE - Making a COLLECTION MANAGER in Unity **(E02)**: https://youtu.be/MBQU-AljcTU
 
->EP60 SEARCH BUTTONS - Making a COLLECTION MANAGER in Unity (E03): https://youtu.be/CRD07Tl0Ma8
+>EP60 SEARCH BUTTONS - Making a COLLECTION MANAGER in Unity **(E03)**: https://youtu.be/CRD07Tl0Ma8
 
->EP61 UPDATE search buttons and PageUI - Making a COLLECTION MANAGER in Unity (E04): https://youtu.be/ozEPJzpCg_w
+>EP61 **UPDATE** search buttons and PageUI - Making a COLLECTION MANAGER in Unity **(E04)**: https://youtu.be/ozEPJzpCg_w
 
->EP62 ADD MORE FEATURES - Making a Collection Manager in Unity (E05): https://youtu.be/58JFiYLoJrw
+>EP62 ADD MORE **FEATURES** - Making a Collection Manager in Unity **(E05)**: https://youtu.be/58JFiYLoJrw
 
->EP63 How to use SCRIPTABLE OBJECTS in Unity: https://youtu.be/Jn7YuzZXvAk
+>EP63 How to use **SCRIPTABLE OBJECTS** in Unity: https://youtu.be/Jn7YuzZXvAk
 
 
 
