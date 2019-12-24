@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 66c7dcafe3513477c82fd5ab47f91d01
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Modern Machine
+  fontNames:
+  - Modern Machine
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3be04f7f012684409a779f093c77768c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
